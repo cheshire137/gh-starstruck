@@ -14,5 +14,5 @@ and how many stars they have.
 ```bash
 echo "cheshire137 defunkt" > users.txt
 ruby gh-starstruck.rb YOUR_ACCESS_TOKEN users.txt
-cat users.txt
+cat gh-starstruck-results.json
 ```
